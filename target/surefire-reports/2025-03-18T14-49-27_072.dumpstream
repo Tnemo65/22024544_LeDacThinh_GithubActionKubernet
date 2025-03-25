@@ -1,5 +1,0 @@
-# Created at 2025-03-18T14:49:27.429
-Boot Manifest-JAR contains absolute paths in classpath 'D:\k8s_stu\top-spring-on-kubernetes-main\hello-spring-k8s\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-
